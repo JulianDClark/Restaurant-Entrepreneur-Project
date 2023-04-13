@@ -1,9 +1,7 @@
 from user import User
 from chat_history import ChatHistory
-
 User_one = User()
 User_two = User()
-
 User_one.send_message('Hello')
 User_two.send_message('Hello, id like to place an order')
 User_one.send_message('Of course what would you like to order?')
