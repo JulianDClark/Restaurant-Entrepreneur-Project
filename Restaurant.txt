@@ -1,0 +1,24 @@
+Transaction Count: 1
+Dish: Pancake ($10.00)
+Location Number: 111
+Total Sales: $10.00
+
+Transaction Count: 2
+Dish: Sasuage ($6.00)
+Location Number: 333
+Total Sales: $16.00
+
+Transaction Count: 3
+Dish: Eggs ($5.00)
+Location Number: 22
+Total Sales: $21.00
+
+Transaction Count: 4
+Dish: Eggs ($5.00)
+Location Number: 111
+Total Sales: $26.00
+
+Transaction Count: 5
+Dish: Pancake ($10.00)
+Location Number: 333
+Total Sales: $36.00
