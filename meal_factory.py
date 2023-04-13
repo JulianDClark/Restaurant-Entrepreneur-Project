@@ -1,10 +1,13 @@
 from pancake import Pancake 
 from sasuage import Sasuage
-
+from eggs import Eggs
 class MealFactory:
-    def create_meal(self,type):
+    @staticmethod
+    def create_meal(type):
         if type == 'Pancake':
             return Pancake()
         elif type == 'Sasuage':
             return Sasuage()
+        elif type == 'Eggs':
+           return Eggs()
         
